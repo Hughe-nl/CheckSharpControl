@@ -7,7 +7,7 @@ Check your .net application on attributes
 Preview
 =======
 
-![preview][https://github.com/Hughe-nl/CheckSharpControl/blob/master/CheckSharpControl.png]
+![preview](https://github.com/Hughe-nl/CheckSharpControl/blob/master/CheckSharpControl.png "Preview")
 
 Todo list
 =========
