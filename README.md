@@ -17,3 +17,9 @@ Todo list
 - Create proper Unit tests.
 - Create object oriented return from Library, instead of TextWriter.
 - Create an easier way to exclude classes/methods from configuration.
+
+Contribute
+=========
+
+- Pull Requests are more than welcome.
+- Create issues for bugs and new features. 
