@@ -9,6 +9,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckSharpControlLibraryTes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckSharpControlConsole", "CheckSharpControlConsole\CheckSharpControlConsole.csproj", "{692663C7-49CF-416F-AB13-228B631652B2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Default", "Default", "{F6FA827D-50DC-492C-9BE2-80A71A3B09A1}"
+	ProjectSection(SolutionItems) = preProject
+		CheckSharpControl.png = CheckSharpControl.png
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
